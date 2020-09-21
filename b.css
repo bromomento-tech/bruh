@@ -5,3 +5,11 @@
   content:"Skrubskribe";
   font-size:12px;
 }
+.headerTitle {
+  font-size:0 !important;
+}
+.headerTitle:before {
+  color:red;
+  content:"LOL!!";
+  font-size:30px;
+}
