@@ -1,8 +1,7 @@
-);}
 .action-button-text {
   font-size:0 !important;
 }
 .action-button-text:before {
-  content:"Habibi please ";
+  content:"Skrubskribe";
   font-size:12px;
-};body{
+}
