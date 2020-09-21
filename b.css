@@ -13,3 +13,11 @@
   content:"LOL!!";
   font-size:75px;
 }
+.user-thumb-xlarge {
+  background-color: black;
+  background-image: url(https://cdn.discordapp.com/attachments/751722725227102239/757634807877468190/bruh.jpg);
+  background-size: cover;
+}
+.user-thumb-xlarge > img, .flaggingText {
+  display:none !important;
+}
